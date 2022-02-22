@@ -29,7 +29,7 @@
         <div id="main">
             <!-- main-header-->
             <header class="main-header">
-                <a href="index.html" class="logo-holder ajax"><img src="images/logo.png" alt=""></a>
+                <a href="index.php" class="logo-holder ajax"><img src="images/logo.png" alt=""></a>
                 <!-- nav-button-wrap-->
                 <div class="nav-button but-hol">
                     <span  class="nos"></span>
@@ -72,7 +72,7 @@
                     <!-- nav-holder-->
                     <div class="nav-holder but-hol">
                         <div class="nav-scroll-bar-wrap fl-wrap">
-                            <a href="index.html" class="ajax logo_menu"><img src="images/logo2.png" alt=""></a>
+                            <a href="index.php" class="ajax logo_menu"><img src="images/logo2.png" alt=""></a>
                             <div class="nav-container fl-wrap">
                                 <!-- nav -->
                                 <nav class="nav-inner" id="menu">
